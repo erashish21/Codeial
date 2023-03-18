@@ -1,0 +1,17 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "This is social webside and Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Bundela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "git-init": "^1.0.0",
+    "npm-git-install": "^0.3.0"
+  }
+}
