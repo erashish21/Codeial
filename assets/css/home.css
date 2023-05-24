@@ -1,0 +1,45 @@
+#home-container{
+  display: flex;
+  
+  
+  
+}
+.box{
+  height: 100px;
+  width: 300px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 3px lightgray;
+}
+.box:hover{
+  background: rgb(86, 189, 86);
+}  
+ 
+.box1{
+  height: 80px;
+  width: 80px;
+  float: left;
+  margin: 5px 5px;
+  border-radius: 100%;
+   
+  
+}
+.box1 img{
+  height: 80px;
+  width: 80px;
+  border-radius: 100%;
+}
+.box2{
+  height: 80px;
+  width: 280px;
+  margin: 5px 5px;
+   
+  
+}
+.box2 h5{
+  text-align: center;
+  margin-top: 20px;
+   
+}
+.shadow-sm{
+  border: 1px solid black;
+}
